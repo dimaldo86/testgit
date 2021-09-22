@@ -48,3 +48,10 @@ h4 {
 .test {
     background: rgb(223, 198, 198);
 }
+.proba h1 {
+    color: blueviolet;
+    text-align: center;
+    margin: 50px 0;
+    text-transform: uppercase;
+    font-size: 48px;
+}
