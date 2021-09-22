@@ -55,3 +55,10 @@ h4 {
     text-transform: uppercase;
     font-size: 48px;
 }
+.proba__block {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(51, 207, 59);
+    border: 3px solid rgb(165, 42, 58);
+    margin: 50px auto;
+}
